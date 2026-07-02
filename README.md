@@ -53,7 +53,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-# 👋 About Me
+# I am
 
 ```yaml
 name: Ajay Sai
