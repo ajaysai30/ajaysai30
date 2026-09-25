@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🤖+Artificial+Intelligence+Engineer;🧠+Machine+Learning+Engineer;📊+Data+Scientist;☁️+Future+Data+Engineer;💻+Java+Developer;🐍+Python+Developer;🚀+Building+Intelligent+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=+Artificial+Intelligence+Engineer;+Machine+Learning+Engineer;📊+Data+Scientist;+Future+Data+Engineer;+Java+Developer;🐍+Python+Developer;🚀+Building+Intelligent+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="AJAY SAI">
+<a href="www.linkedin.com/in/ajay-sai-81401440a">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -90,20 +90,20 @@ location:
    India 🇮🇳
 
 status:
-   Always Learning 🚀
+   Always Learning 
 ```
 
 ---
 
 # 🚀 What I'm Working On
 
-- 📚 Mastering Data Structures & Algorithms using Java
-- 🤖 Learning Machine Learning & Deep Learning
-- 📊 Exploring Data Science projects
-- ☁️ Studying Data Engineering tools
-- 🧠 Building AI-powered applications
-- 💻 Solving coding problems every day
-- 🚀 Creating projects for my portfolio
+-  Mastering Data Structures & Algorithms using Java
+-  Learning Machine Learning & Deep Learning
+-  Exploring Data Science projects
+-  Studying Data Engineering tools
+-  Building AI-powered applications
+-  Solving coding problems every day
+-  Creating projects for my portfolio
 
 ---
 
@@ -117,15 +117,15 @@ status:
 
 # 🧠 Areas of Interest
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Science
-- 📈 Data Analytics
-- ☁️ Data Engineering
-- 🏗️ Software Engineering
-- 🧮 Algorithms
-- 🐍 Python Development
-- ☕ Java Development
+-  Artificial Intelligence
+-  Machine Learning
+-  Data Science
+-  Data Analytics
+-  Data Engineering
+-  Software Engineering
+-  Algorithms
+-  Python Development
+-  Java Development
 
 ---
 
@@ -187,7 +187,7 @@ status:
 
 ---
 
-## 🤖 Artificial Intelligence
+##  Artificial Intelligence
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
@@ -197,13 +197,13 @@ Machine Learning • Deep Learning • Neural Networks • Computer Vision • N
 
 ---
 
-## 📊 Data Science
+##  Data Science
 
 NumPy • Pandas • Matplotlib • Seaborn • Scikit-Learn • Statistics • Data Visualization
 
 ---
 
-## ☁️ Data Engineering
+##  Data Engineering
 
 Apache Spark
 
@@ -223,7 +223,7 @@ Data Warehousing
 
 ---
 
-## 🛠️ Development Tools
+##  Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,postman,git,github&theme=dark"/>
@@ -233,24 +233,24 @@ Data Warehousing
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🧠 AI Skill Matrix
+#  AI Skill Matrix
 
 | Domain | Status |
 |---------|--------|
-| 🤖 Artificial Intelligence | 🟢 Learning |
-| 🧠 Machine Learning | 🟢 Learning |
-| 📚 Deep Learning | 🟡 Beginner |
-| 👁️ Computer Vision | 🟡 Beginner |
-| 💬 Natural Language Processing | 🟡 Beginner |
-| ⚡ Generative AI | 🟡 Learning |
-| 📊 Data Science | 🟢 Learning |
-| 📈 Data Analytics | 🟢 Learning |
-| ☁️ Data Engineering | 🔵 Roadmap |
-| 🏗️ Software Engineering | 🟢 Growing |
+|  Artificial Intelligence | 🟢 Learning |
+| Machine Learning | 🟢 Learning |
+|  Deep Learning | 🟡 Beginner |
+|  Computer Vision | 🟡 Beginner |
+|  Natural Language Processing | 🟡 Beginner |
+|  Generative AI | 🟡 Learning |
+|  Data Science | 🟢 Learning |
+|  Data Analytics | 🟢 Learning |
+|  Data Engineering | 🔵 Roadmap |
+|  Software Engineering | 🟢 Growing |
 
 ---
 
-# 🚀 Learning Roadmap
+#  Learning Roadmap
 
 ```text
 ✅ Java Programming
@@ -282,7 +282,7 @@ Data Warehousing
 
 ---
 
-# 📚 Currently Exploring
+#  Currently Exploring
 
 ```yaml
 Learning:
@@ -449,13 +449,13 @@ Next Goals:
 
 | Metric | Status |
 |--------|--------|
-| 💻 Coding | Every Day |
-| 📚 Learning | Continuous |
-| 🤖 AI | Improving |
-| 🧠 Machine Learning | Improving |
-| 📊 Data Science | Improving |
-| ☁️ Data Engineering | Roadmap |
-| 🚀 Open Source | Starting Soon |
+|  Coding | Every Day |
+|  Learning | Continuous |
+|  AI | Improving |
+|  Machine Learning | Improving |
+|  Data Science | Improving |
+| Data Engineering | Roadmap |
+|  Open Source | Starting Soon |
 
 </div>
 
@@ -701,13 +701,13 @@ Data Engineer 🚀
 
 | Area | Goal |
 |------|------|
-| 🤖 Artificial Intelligence | Expert |
-| 🧠 Machine Learning | Expert |
-| 📊 Data Science | Expert |
-| ☁️ Data Engineering | Advanced |
-| 💻 Software Engineering | Advanced |
-| ☁️ Cloud Computing | Intermediate |
-| 🏗️ System Design | Intermediate |
+|  Artificial Intelligence | Expert |
+|  Machine Learning | Expert |
+|  Data Science | Expert |
+|  Data Engineering | Advanced |
+|  Software Engineering | Advanced |
+|  Cloud Computing | Intermediate |
+|  System Design | Intermediate |
 
 ---
 
@@ -738,6 +738,7 @@ Data Engineer 🚀
 ├── SQL
 ├── Machine Learning
 ├── Deep Learning
+├── GEN AI 
 ├── AI Projects
 ├── Data Science
 └── GitHub Portfolio
@@ -755,7 +756,6 @@ Data Engineer 🚀
 2028
 │
 ├── LLMs
-├── Generative AI
 ├── RAG Systems
 ├── Distributed AI
 └── AI Products
